@@ -1,21 +1,21 @@
 # WIN95-Key-check
-##Checking for validity of Windows 95 key
+## Checking for validity of Windows 95 key
 
-##Compile
-###On UNIX terminal
+## Compile
+### On UNIX terminal
 
 ```bash 
 g++ main.cpp -o <filename>
 ```
 
 ## Using
-###On UNIX terminal
+### On UNIX terminal
 
 ```bash 
 ./<filename> <key>
 ```
 
-##Output
+## Output
 If key is valid
 ```
 This key is correct
